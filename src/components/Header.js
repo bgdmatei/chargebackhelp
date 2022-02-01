@@ -7,7 +7,7 @@ const Header = () => {
     <Navbar bg='dark' variant='dark' expand='lg'>
       <Container>
         <LinkContainer to='/'>
-          <Navbar.Brand>Products </Navbar.Brand>
+          <Navbar.Brand>Latest Products</Navbar.Brand>
         </LinkContainer>
           <Nav className='ml-auto'>
             <LinkContainer to='/cart'>

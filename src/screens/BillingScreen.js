@@ -103,7 +103,7 @@ const BillingScreen = () => {
             <Form.Group controlId='zip'>
               <Form.Label>Zip Code</Form.Label>
               <Form.Control
-                type='text'
+                type='number'
                 placeholder='Enter zip'
                 value={zip}
                 required
